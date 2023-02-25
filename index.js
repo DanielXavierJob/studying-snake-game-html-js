@@ -7,10 +7,10 @@ const box = 32;
 // load images
 
 const ground = new Image();
-ground.src = "public/images/ground.png";
+ground.src = "/images/ground.png";
 
 const foodImg = new Image();
-foodImg.src = "public/images/food.png";
+foodImg.src = "/images/food.png";
 
 // load audio files
 
@@ -21,12 +21,12 @@ let right = new Audio();
 let left = new Audio();
 let down = new Audio();
 
-dead.src = "public/audio/dead.mp3";
-eat.src = "public/audio/eat.mp3";
-up.src = "public/audio/up.mp3";
-right.src = "public/audio/right.mp3";
-left.src = "public/audio/left.mp3";
-down.src = "public/audio/down.mp3";
+dead.src = "/audio/dead.mp3";
+eat.src = "/audio/eat.mp3";
+up.src = "/audio/up.mp3";
+right.src = "/audio/right.mp3";
+left.src = "/audio/left.mp3";
+down.src = "/audio/down.mp3";
 
 // create the snake
 
