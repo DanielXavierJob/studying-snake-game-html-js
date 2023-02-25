@@ -11,7 +11,7 @@ The record is avaliable when the actual record is broked by player
 
 # Records
 
-## 1 - DanielXavierJob
+## 1 - [DanielXavierJob](https://github.com/DanielXavierJob)
 ![Img Record](https://i.imgur.com/gB4cs5z.png)
 
 
