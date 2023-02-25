@@ -7,10 +7,10 @@ If u want displayed your conquist in game in to section "Records" in README.md f
 ## Rules
 The record is avaliable when the actual record is broked by player
 
-# My Record
+# Records
 
-### DanielXavierJob
-[Img Record](https://i.imgur.com/gB4cs5z.png)
+## 1 - DanielXavierJob
+![Img Record](https://i.imgur.com/gB4cs5z.png)
 
 
 # Functionality
