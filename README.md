@@ -1,8 +1,10 @@
 
 # Snake Game 📝  
-This a simple game, this game has avaliable [Here](https://studying-snake-game-html-js.vercel.app)
+This a simple game, this game has avaliable in vercel.
 
-If u want displayed your conquist in game in to section "Records" in README.md from project, open a issue with the title `[RECORD]` and the send image.
+[CLICK ME TO PLAY](https://studying-snake-game-html-js.vercel.app)
+
+**If u want displayed your conquist in game in to section "Records" in README.md from project, open a issue with the title `[RECORD]` and the send image.**
 
 ## Rules
 The record is avaliable when the actual record is broked by player
